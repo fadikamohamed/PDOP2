@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/fond.jpg);
+    width: 100%;
+}
+#content {
+    background-color: grey;
+    border-radius: 20px;
+}
+a{
+    color: white;
+}
+table, th, tr, td {
+    border-color: black;
+}
+thead {
+    border-color: black;
+
+}
+.link{
+    display: inline-block;
+}
